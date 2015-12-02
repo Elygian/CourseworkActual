@@ -3,7 +3,7 @@
 
 using namespace std;
 
-class Person //I want to commit
+class Person //I want to commit lucas this is a pain in my balls!! like a big pain!
 {
 
 protected:
